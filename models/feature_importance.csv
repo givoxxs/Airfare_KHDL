@@ -1,8 +1,8 @@
 Feature,Importance
-Duration,5660
-Arrival_Min,2762
-Departure_Hour,2748
-Departure_Min,2711
-Arrival_Hour,2606
-Date,2242
-SClass,1271
+Duration,495
+Date,255
+Departure_Min,241
+Departure_Hour,209
+Arrival_Hour,200
+Arrival_Min,183
+SClass,160
